@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/english-for-kids-base-deploy/static/css/main.fc993e4e.chunk.css",
+    "main.js": "/english-for-kids-base-deploy/static/js/main.1dad9bf6.chunk.js",
+    "main.js.map": "/english-for-kids-base-deploy/static/js/main.1dad9bf6.chunk.js.map",
+    "runtime-main.js": "/english-for-kids-base-deploy/static/js/runtime-main.1064908b.js",
+    "runtime-main.js.map": "/english-for-kids-base-deploy/static/js/runtime-main.1064908b.js.map",
+    "static/js/2.5c24b4b3.chunk.js": "/english-for-kids-base-deploy/static/js/2.5c24b4b3.chunk.js",
+    "static/js/2.5c24b4b3.chunk.js.map": "/english-for-kids-base-deploy/static/js/2.5c24b4b3.chunk.js.map",
+    "index.html": "/english-for-kids-base-deploy/index.html",
+    "static/css/main.fc993e4e.chunk.css.map": "/english-for-kids-base-deploy/static/css/main.fc993e4e.chunk.css.map",
+    "static/js/2.5c24b4b3.chunk.js.LICENSE.txt": "/english-for-kids-base-deploy/static/js/2.5c24b4b3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/english-for-kids-base-deploy/static/media/rss.57509a67.svg",
+    "static/media/repeat-audio.8a3e2462.svg": "/english-for-kids-base-deploy/static/media/repeat-audio.8a3e2462.svg",
+    "static/media/index.css": "/english-for-kids-base-deploy/static/media/roboto-v27-cyrillic-regular.91f689ac.woff2",
+    "static/media/rotate.38bffe72.svg": "/english-for-kids-base-deploy/static/media/rotate.38bffe72.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1064908b.js",
+    "static/js/2.5c24b4b3.chunk.js",
+    "static/css/main.fc993e4e.chunk.css",
+    "static/js/main.1dad9bf6.chunk.js"
+  ]
+}
