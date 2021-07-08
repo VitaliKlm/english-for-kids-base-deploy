@@ -24,6 +24,14 @@
       {
         "name": "Emotions",
         "image": "img/smile.jpg" 
+      },
+      {
+        "name": "Body",
+        "image": "img/hair.jpg" 
+      },
+      {
+        "name": "Food",
+        "image": "img/apple.jpg" 
       }
     ]
   },
@@ -326,6 +334,106 @@
         "translation": "смех",
         "image": "img/laugh.jpg",
         "audioSrc": "audio/laugh.mp3"
+      }
+    ],
+    "Body": [
+      {
+        "word": "ear",
+        "translation": "ухо",
+        "image": "img/ear.jpg",
+        "audioSrc": "audio/ear.mp3"
+      },
+      {
+        "word": "eye",
+        "translation": "глаз",
+        "image": "img/eye.jpg",
+        "audioSrc": "audio/eye.mp3"
+      },
+      {
+        "word": "teeth",
+        "translation": "зубы",
+        "image": "img/teeth.jpg",
+        "audioSrc": "audio/teeth.mp3"
+      },
+      {
+        "word": "hair",
+        "translation": "волосы",
+        "image": "img/hair.jpg",
+        "audioSrc": "audio/hair.mp3"
+      },
+      {
+        "word": "hand",
+        "translation": "рука",
+        "image": "img/hand.jpg",
+        "audioSrc": "audio/hand.mp3"
+      },
+      {
+        "word": "head",
+        "translation": "голова",
+        "image": "img/head.jpg",
+        "audioSrc": "audio/head.mp3"
+      },
+      {
+        "word": "leg",
+        "translation": "нога",
+        "image": "img/leg.jpg",
+        "audioSrc": "audio/leg.mp3"
+      },
+      {
+        "word": "nose",
+        "translation": "нос",
+        "image": "img/nose.jpg",
+        "audioSrc": "audio/nose.mp3"
+      }
+    ],
+    "Food": [
+      {
+        "word": "apple",
+        "translation": "яблоко",
+        "image": "img/apple.jpg",
+        "audioSrc": "audio/apple.mp3"
+      },
+      {
+        "word": "bread",
+        "translation": "хлеб",
+        "image": "img/bread.jpg",
+        "audioSrc": "audio/bread.mp3"
+      },
+      {
+        "word": "carrot",
+        "translation": "морковь",
+        "image": "img/carrot.jpg",
+        "audioSrc": "audio/carrot.mp3"
+      },
+      {
+        "word": "cheese",
+        "translation": "сыр",
+        "image": "img/cheese.jpg",
+        "audioSrc": "audio/cheese.mp3"
+      },
+      {
+        "word": "chocolate",
+        "translation": "шоколад",
+        "image": "img/chocolate.jpg",
+        "audioSrc": "audio/chocolate.mp3"
+      },
+      {
+        "word": "egg",
+        "translation": "яйцо",
+        "image": "img/egg.jpg",
+        "audioSrc": "audio/egg.mp3"
+      },
+      {
+        "word": "juice",
+        "translation": "сок",
+        "image": "img/juice.jpg",
+        "audioSrc": "audio/juice.mp3"
+      },
+      {
+        "word": "orange",
+        "translation": "апельсин",
+        "image": "img/orange.jpg",
+        "audioSrc": "audio/orange.mp3"
       }
     ]
   }
